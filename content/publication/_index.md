@@ -1,7 +1,7 @@
 #---
-#Efficient Parallel Multi-bunch Beam-Beam Simulation in Particle Colliders, IEEE Interntional Conference on High Performance #Computing, Data and Analytics, Hyderabad, India, 2019
+Efficient Parallel Multi-bunch Beam-Beam Simulation in Particle Colliders, IEEE Interntional Conference on High Performance Computing, Data and Analytics, Hyderabad, India, 2019
 
-#A Simulation-Based Layered Framework for the Development of Collaborative Autonomous Systems, Graduate Thesis, 2016
+A Simulation-Based Layered Framework for the Development of Collaborative Autonomous Systems, Graduate Thesis, 2016
 
 #Discrete Event Simulation for Supporting Production, Planning, and Scheduling Decision in Job Shop Facilities, ModSim World #Conference, Norfolk, 2014
 

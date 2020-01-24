@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Efficient Parallel Multi-bunch Beam-Beam Simulation in Particle Colliders
 
 # View.
 #   1 = List

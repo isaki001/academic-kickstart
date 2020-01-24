@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Ioannis Sakiotis
 
 # Username (this should match the folder name)
 authors:

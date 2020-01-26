@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Accomplishshments"
 subtitle = ""
 
 # Date format
@@ -20,9 +20,9 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Problem Solving and Programming II (C++)"
-  organization_url = ""
+  organization_url = "https://www.coursera.org"
   title = "Outstanding Graduate Teaching Assistant"
-  url = ""
+  url = "https://www.coursera.org"
   certificate_url = "https://www.coursera.org"
   date_start = "2019-5-01"
   date_end = ""
@@ -32,8 +32,8 @@ date_format = "Jan 2006"
   organization = "AHEPA"
   organization_url = "https://www.edx.org"
   title = "Academic Scholarhip"
-  url = ""
-  certificate_url = ""
+  url = "https://www.coursera.org"
+  certificate_url = "https://www.coursera.org"
   date_start = "2019-06-01"
   date_end = ""
   description = ""

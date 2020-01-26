@@ -25,8 +25,8 @@ date_format = "Jan 2006"
   url = "https://www.coursera.org"
   certificate_url = "https://www.coursera.org"
   date_start = "2019-5-01"
-  date_end = ""
-  description = ""
+  date_end = "2019-5-01"
+  description = "2019-5-01"
 
 [[item]]
   organization = "AHEPA"
@@ -35,8 +35,8 @@ date_format = "Jan 2006"
   url = "https://www.coursera.org"
   certificate_url = "https://www.coursera.org"
   date_start = "2019-06-01"
-  date_end = ""
-  description = ""
+  date_end = "2019-5-01"
+  description = "2019-5-01"
   
 
 

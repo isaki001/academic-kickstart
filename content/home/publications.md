@@ -66,6 +66,6 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
+
 [PUBLICATION LIST]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}

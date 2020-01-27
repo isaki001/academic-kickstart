@@ -50,7 +50,7 @@ social:
   link: https://twitter.com/iesakiotis
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=en&user=T3vpKkEAAAAJ&view_op=list_works&citft=1&citft=2&email_for_op=ioannissakiotis%40gmail.com&gmla=AJsN-F7VIxG0VAU7ZkJHbHN0oytsmOCApa4DnkEHVRHlnsZ_NYDe0DQt0NOTQ326U8T4R0E6_n0MwJCHPhUyE0ioHcm1NzeiEJ5kW5NnUabEdcvsnpTLzFSX6C0hBsJzm1JhKSXrrL07Bzov8nsPg6OTzTGc9XrXWj6pbYYXCXBRaeNwdRdYNoHoh07VW6kpli2LSG6ekJrLIG1t4Q1NnLKycqpOCBBVzEp-nY1HpMx7YhppIpjl0R_CVmZ40XxhylbIhY5agror
 - icon: github
   icon_pack: fab
   link: https://github.com/isaki001

@@ -68,5 +68,5 @@ subtitle = ""
 
 
 [PUBLICATION LIST]({{< ref "/publication/_index.md" >}})
-
+[PUBLICATION LIST]({{< ref "/publication/cv.pdf" >}})
 

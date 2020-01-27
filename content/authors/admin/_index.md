@@ -75,3 +75,5 @@ user_groups:
 ---
 
 Ioannis Sakiotis is a Ph.D. student in Computer Science at Old Dominion University in Virginia, USA. He is currently conducting research as a member of the High Performance Scientific Computing Team for Efficient Research Simulations. 
+
+Email: isaki001@odu.edu

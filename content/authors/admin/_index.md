@@ -55,7 +55,7 @@ social:
   icon_pack: fab
   link: https://github.com/isaki001
   
-- icon: envelope
+- icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ioannis-sakiotis-4508a0a8/
 # Link to a PDF of your resume/CV from the About widget.

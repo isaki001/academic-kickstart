@@ -1,9 +1,12 @@
+1. m-CUBES An efficient and portable implementation of multi-dimensional integration for GPUs, ISC High Performance, Hamburg, Germany 2022
 
-1. Efficient Parallel Multi-bunch Beam-Beam Simulation in Particle Colliders, IEEE Interntional Conference on High Performance  Computing, Data and Analytics, Hyderabad, India, 2019
+2.  PAGANI: A parallel adaptive GPU algorithm for numerical integration, International Conference for High Performance Computing, Networking, Storage and Analysis (SC21), St. Louis, U.S.A.,
+2021
 
-2. A Simulation-Based Layered Framework for the Development of Collaborative Autonomous Systems, Graduate Thesis, 2016
+3. Efficient parallel multi-bunch beam-beam simulation in particle colliders, IEEE Interntional Conference on High Performance  Computing, Data and Analytics, Hyderabad, India, 2019
 
-3. Discrete Event Simulation for Supporting Production, Planning, and Scheduling Decision in Job Shop Facilities, ModSim World Conference, Norfolk, 2014
+4. A simulation-based layered framework for the development of collaborative autonomous systems, Graduate Thesis, 2016
 
-4. Discrete Event Simulatin Implementation of a Production Planning and Scheduling Tool, Capstone Design Conference, Virginia 2014
+5. Discrete event simulation for supporting production, planning, and scheduling decision in job shop facilities, ModSim World Conference, Norfolk, 2014
 
+6. discrete event simulation implementation of a production planning and scheduling tool, Capstone Design Conference, Virginia 2014
